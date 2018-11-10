@@ -1,3 +1,3 @@
 # hello-world-test
 just for test
-This is a software for myself
+This is a software not for anyone
